@@ -13,5 +13,20 @@
 */
 
 public class wordDatabase {
+private static String [] colorAnimalFoodEasy =   //Easy word from this list
+	{"Red", "Green"," Yellow", "Blue", "Orange"," Purple", "Pink", 
+		"Brown", "Black", "Gray", "White", "Lion", "Tiger", "Duck", "Cat", 
+		"Bird", "Dog"," Cow", "Horse", "Chicken", "Cake", "Pizza", 
+		"Ice cream", "Hot dog", "Burrito", "Taco" };
+	
+	private static String [] musicGenresMedium =   //Medium word from this list
+		{"Alternative", "Blues",  "Classical", " Country",  "Dance" ,  "Easy Listening",  "Electronic" ,  
+		"European" ,  "Hip Hop" ,  "Indie Pop","Inspirational", "Asian Pop",  "Jazz",  "Latin" , "New Age",
+		"Opera","Pop", "Soul",  "Reggae",  "Rock", "Folk",  "World" };
 
+	private static String [] historicalFiguresHard =   //Hard word from this list
+		{"jesus","napoleon" ,"Muhammad", "Shakespeare", "Lincoln"," Washington",
+		"Hitler", " Aristotle", " Jefferson", "Darwin", "Marx", " Caesar", "Victoria", "Stalin", 
+		"Einstein", "Columbus", "Newton", "Charlemagne", "Roosevelt", "Mozart",
+	"	Plato", "Beethoven", "da Vinci", "Dickens", "Franklin"};
 }
